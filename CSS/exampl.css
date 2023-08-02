@@ -1,0 +1,23 @@
+.make {
+    display: flex;
+}
+
+.divs, .div {
+    box-shadow: 1px 2px 3px 4px solid whitesmoke;
+    margin: 80px;
+    padding: 25px;
+    padding-left: 180px;
+    padding-right: 200px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background: linear-gradient(#11998E,#38EF7D);
+}
+img{
+    
+    border-radius: 280px;
+    padding: 1px;
+width: 130px;
+}
+body{
+    background: linear-gradient(to left,#38EF7D,#FE90AF);
+}

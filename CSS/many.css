@@ -1,0 +1,29 @@
+.menubar ul{
+   
+    list-style: none;
+    display:inline-flex ;
+    text-align: center;
+    justify-content: space-between;
+}
+.menubar{
+    background-color: red;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+}
+.menubar ul li{
+    width: 120px;
+    margin: 20px;
+    padding: 5px;
+    
+}
+.menubar ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+.active, .menubar ul li:hover{
+    
+    border-radius: 5px;
+    background-image: linear-gradient;
+}

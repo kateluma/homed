@@ -1,0 +1,45 @@
+.maindiv{
+    display: flex;
+}
+
+a{
+    margin-left: 1opx;
+}
+
+.navlinks{
+margin-left: 500px;
+}
+
+
+.maindiv{
+    display: flex;
+    padding: 20px;
+    margin: auto 100px;
+    margin-top: 100px;
+}
+p{
+    margin-right: 10px;
+    margin-top: 15px;
+    color: solid black;
+    
+}
+.navlinks{
+    margin-left: 50px;
+    width: 30%;
+    margin-bottom: 50px;
+    padding: 6px;
+}
+
+   button{
+    background-color: #e4046b;
+    color: white;
+    padding: 10px;
+    margin-left: 40%;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 2%;
+   } 
+   
+    
+
+    
